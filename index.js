@@ -3,67 +3,7 @@
 // confirm() - виводить повідомлення з кнопкою Ок і Скасувати.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // Завдання 1
-
-// var userName = prompt("Будь ласка, введіть своє ім'я:");
-// if (userName) {
-//     // Вивести вітання з ім'ям користувача за допомогою alert
-//     alert("Hello, " + userName + "! How are you?");}
-
 
 var userName = prompt('Hello, what is your name?');
 alert('Hello, ' + userName + '! How are you?');
